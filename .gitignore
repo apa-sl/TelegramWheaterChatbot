@@ -1,0 +1,7 @@
+.env
+__pycache__
+.pytest_cache
+.vscode
+rasa testing
+test.py
+open-weather-response.json
